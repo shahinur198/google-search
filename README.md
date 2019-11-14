@@ -3,6 +3,7 @@
 https://developers.google.com/custom-search/v1/overview?csw=1
 
 https://linuxhint.com/google_search_api_python/
+https://cse.google.com/cse/setup/basic?cx=012379542552631971030%3Auogymum7a7v
 
 install
 ```
